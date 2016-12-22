@@ -1,3 +1,4 @@
+@test
 Feature: Test Login function
 
   Scenario: Login unregistered user with valid credentials

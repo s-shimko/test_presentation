@@ -6,6 +6,7 @@ end
 When(/^I click 'Войти' link to open login page$/) do
   @abstract_page = AbstractPage.new
   @abstract_page.wait_for_enter_to_login(10)
+  print 123.class
   @abstract_page.enter_to_login.click
 end
 
