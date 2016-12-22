@@ -1,7 +1,6 @@
 # Ruby Gem
 #Reports
 /reports/
-/not_failed_screenshots/
 # Idea files
 .idea*
 *.iml
